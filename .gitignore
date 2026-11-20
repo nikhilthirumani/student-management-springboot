@@ -1,0 +1,12 @@
+target/
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.env
+.env.*
+!.env.example
+application-local.properties
+application-secret.properties
+*.log
